@@ -1,0 +1,8 @@
+{
+  "gamerule.crystaltouch": "Прикосновение к кристаллам",
+  "block.changed_ice.crystalgreenlarge": "Огромный зелёный кристалл",
+  "block.changed_ice.crystalgreenmedium": "Средний зелёный кристалл",
+  "itemGroup.tabchangedicetab": "Changed ice",
+  "block.changed_ice.changedice": "Лёд Changed",
+  "gamerule.crystaltouch.description": "0 - использует механику трансфурмации из Changed, \u003c0 мгновенная смерть, \u003e0 количество наносимого урона"
+}

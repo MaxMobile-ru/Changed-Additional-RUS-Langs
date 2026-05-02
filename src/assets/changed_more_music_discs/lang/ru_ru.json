@@ -1,0 +1,18 @@
+{
+  "advancements.changed_mmd_epilogue.title": "Эпилог",
+  "advancements.changed_mmd_epilogue.descr": "Все пластинки собраны... Самое время отпраздновать это событие.",
+  //You just need to bring all the new records in your inventory, buddy
+  
+  "itemGroup.tab_changed_moremusicdiscs": "Changed Music: More Music Discs",
+  
+  "item.changed_more_music_discs.aquatic_life_record.desc": "Shizi - Aquatic Life",
+  "item.changed_more_music_discs.behemoth_record.desc": "Shizi - The Behemoth",
+  "item.changed_more_music_discs.cruel_truth_record.desc": "Shizi - Cruel Truth",
+  "item.changed_more_music_discs.crystal_dragon_record.desc": "Shizi - Crystal Dragon",
+  "item.changed_more_music_discs.finale_record.desc": "Shizi - Finale",
+  "item.changed_more_music_discs.greenhouse_record.desc": "Shizi - Greenhouse",
+  "item.changed_more_music_discs.prototype_record.desc": "Shizi - The Prototype",
+  "item.changed_more_music_discs.puros_dance_record.desc": "Shizi - Puro's Dance",
+  "item.changed_more_music_discs.squiddog_pirateship_record.desc": "Shizi - Squid Dog Pirate Ship",
+  "item.changed_more_music_discs.wolfking_record.desc": "Shizi - Wolf King"
+}
