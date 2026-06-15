@@ -92,7 +92,7 @@
   "gamerule.changed_additions:fight_to_keep_consciousness": "Борьба за сохранение сознания QTE",
   "gamerule.changed_additions:fight_to_keep_consciousness.description": "Включает возможность сохранить сознание при условии, что вы сможете победить в QTE",
   "gamerule.changed_additions:doCreatureDiets": "Рацион существ?",
-  "gamerule.changed_additions:doCreatureDiets.description": "Позволяет трансфурмированным существам получать больше очков сытости при поедании подходящей еды",
+  "gamerule.changed_additions:doCreatureDiets.description": "Позволяет трансфурированным существам получать больше очков сытости при поедании подходящей еды",
   "gamerule.changed_additions:blocksNeedFullSourceToSpread": "Латексным блокам нужен полный источник для распространения",
 
 
